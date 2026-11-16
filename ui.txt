@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Colour: green
+=======
+Colour: blue
+>>>>>>> f429e65 (updated version2)

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Session: 11:30
+=======
+Session: 10:00
+>>>>>>> f429e65 (updated version2)

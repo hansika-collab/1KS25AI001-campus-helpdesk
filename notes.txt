@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Prepare lab handout1
+=======
+Draft notes
+>>>>>>> f429e65 (updated version2)
